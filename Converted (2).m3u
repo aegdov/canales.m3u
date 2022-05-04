@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",#VAMOSHD
+http://37.35.148.216:49000/play/vamoshd
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC HD MANU
+http://37.35.148.216:49000/play/a04g
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANTENA 3 HD 52600
+http://37.35.148.216:49000/play/a04u
+#EXTINF:0 tvg-id="AXNhd.es" group-title="Channels",AXN HD
+http://37.35.148.216:49000/play/a04h
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",AXN WHITE HD
+http://37.35.148.216:49000/play/a00t
+#EXTINF:0 tvg-id="ext" group-title="Channels",CUATRO HD 52500
+http://37.35.148.216:49000/play/a04v
+#EXTINF:0 tvg-id="DAZN209.it" group-title="Channels",DAZN 1 HD
+http://37.35.148.216:49000/play/a04b
+#EXTINF:0 tvg-id="DAZN212.it" group-title="Channels",DAZN 2 HD
+http://37.35.148.216:49000/play/a04c
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 3 HD
+http://37.35.148.216:49000/play/dazn3hd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 4 HD
+http://37.35.148.216:49000/play/dazn4hd
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN F1 HD
+http://37.35.148.216:49000/play/a04d
+#EXTINF:0 tvg-id="ext" group-title="Channels",LA SEXTA 47100
+http://37.35.148.216:49000/play/a04x
+#EXTINF:0 tvg-id="ext" group-title="Channels",M+ La Resistencia
+http://37.35.148.216:49000/play/a02h
+#EXTINF:0 tvg-id="ext" group-title="Channels",M+DEPORTES1HD
+http://37.35.148.216:49000/play/a04e
+#EXTINF:0 tvg-id="ext" group-title="Channels",M+ELLAS #V HD
+http://37.35.148.216:49000/play/a061
+#EXTINF:0 tvg-id="ext" group-title="Channels",M+ESTRENOSHD
+http://37.35.148.216:49000/play/a04r
+#EXTINF:0 tvg-id="ext" group-title="Channels",M. CLASICOS H265
+http://37.35.148.216:49000/play/a02n
+#EXTINF:0 tvg-id="ext" group-title="Channels",M. DEPORTESHD
+http://37.35.148.216:49000/play/dephd
+#EXTINF:0 tvg-id="ext" group-title="Channels",M. GOLF HD
+http://37.35.148.216:49000/play/golfhd
+#EXTINF:0 tvg-id="ext" group-title="Channels",M. LaLiga 1 HD
+http://37.35.148.216:49000/play/liga1hd
+#EXTINF:0 tvg-id="ext" group-title="Channels",M. LaLiga 2 HD
+http://37.35.148.216:49000/play/a041
+#EXTINF:0 tvg-id="ext" group-title="Channels",M. LaLiga HD
+http://37.35.148.216:49000/play/ligahd
+#EXTINF:0 tvg-id="ext" group-title="Channels",M.COMEDIA HD
+http://37.35.148.216:49000/play/a04i
+#EXTINF:0 tvg-id="ext" group-title="Channels",M.LCAMPEON1
+http://37.35.148.216:49000/play/camp1hd
+#EXTINF:0 tvg-id="ext" group-title="Channels",M.LCAMPEONES
+http://37.35.148.216:49000/play/camphd
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINCO sbox 47000
+http://37.35.148.216:49000/play/a04w
+#EXTINF:0 tvg-id="ext" group-title="Channels",TEST ATAQUE
+http://37.35.148.216:49000/play/hollywood
+
